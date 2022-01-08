@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Ramin Rakhshani
 author: Ramin Rakhshani
 email: RRakhshani@95@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,4 +12,3 @@ twitter_username: Ramin_Rakhshani # DO NOT include the @ character, or else the 
 github_username:  RaminRakhshani # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
